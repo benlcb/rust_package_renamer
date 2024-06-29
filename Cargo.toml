@@ -1,5 +1,5 @@
 [package]
-name = "package_renamer"
+name = "rust_package_renamer"
 version = "0.1.0"
 edition = "2021"
 
